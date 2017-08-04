@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*__pycache__
+
+
+# Setuptools
+*egg-info
+build
+dist
+*.retry
+
+# tests
+.hypothesis
+.scannerwork/*
+
+# Editors
+*.swp
+*~
+\#*\#
+
+# Logs
+log.txt
