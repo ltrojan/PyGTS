@@ -1,0 +1,13 @@
+Wrap the GTS library for 3D mesh operations
+
+## Thanks
+
+This code originates from the work carried out by Thomas J. Duck and shared on Sourceforge
+
+https://sourceforge.net/u/tomduck/profile/
+
+## Quick roadmap
+
+1. port code from the old Sourceforge [repo](https://sourceforge.net/projects/pygts)
+2. update code for python3 (???)
+3. unit test code
